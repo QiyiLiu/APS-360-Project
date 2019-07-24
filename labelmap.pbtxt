@@ -1,0 +1,250 @@
+item {
+  id: 1
+  name: 'man'
+}
+
+item {
+  id: 2
+  name: 'person'
+}
+
+item {
+  id: 3
+  name: 'window'
+}
+
+item {
+  id: 4
+  name: 'tree'
+}
+
+item {
+  id: 5
+  name: 'building'
+}
+
+item {
+  id: 6
+  name: 'shirt'
+}
+
+item {
+  id: 7
+  name: 'wall'
+}
+
+item {
+  id: 8
+  name: 'woman'
+}
+
+item {
+  id: 9
+  name: 'sign'
+}
+
+item {
+  id: 10
+  name: 'sky'
+}
+
+item {
+  id: 11
+  name: 'ground'
+}
+
+item {
+  id: 12
+  name: 'grass'
+}
+
+item {
+  id: 13
+  name: 'table'
+}
+
+item {
+  id: 14
+  name: 'pole'
+}
+
+item {
+  id: 15
+  name: 'head'
+}
+
+item {
+  id: 16
+  name: 'light'
+}
+
+item {
+  id: 17
+  name: 'water'
+}
+
+item {
+  id: 18
+  name: 'car'
+}
+
+item {
+  id: 19
+  name: 'hand'
+}
+
+item {
+  id: 20
+  name: 'hair'
+}
+
+item {
+  id: 21
+  name: 'people'
+}
+
+item {
+  id: 22
+  name: 'leg'
+}
+
+item {
+  id: 23
+  name: 'trees'
+}
+
+item {
+  id: 24
+  name: 'clouds'
+}
+
+item {
+  id: 25
+  name: 'ear'
+}
+
+item {
+  id: 26
+  name: 'plate'
+}
+
+item {
+  id: 27
+  name: 'leaves'
+}
+
+item {
+  id: 28
+  name: 'door'
+}
+
+item {
+  id: 29
+  name: 'fence'
+}
+
+item {
+  id: 30
+  name: 'pants'
+}
+
+item {
+  id: 31
+  name: 'eye'
+}
+
+item {
+  id: 32
+  name: 'train'
+}
+
+item {
+  id: 33
+  name: 'floor'
+}
+
+item {
+  id: 34
+  name: 'chair'
+}
+
+item {
+  id: 35
+  name: 'road'
+}
+
+item {
+  id: 36
+  name: 'hat'
+}
+
+item {
+  id: 37
+  name: 'street'
+}
+
+item {
+  id: 38
+  name: 'snow'
+}
+
+item {
+  id: 39
+  name: 'wheel'
+}
+
+item {
+  id: 40
+  name: 'shadow'
+}
+
+item {
+  id: 41
+  name: 'jacket'
+}
+
+item {
+  id: 42
+  name: 'nose'
+}
+
+item {
+  id: 43
+  name: 'boy'
+}
+
+item {
+  id: 44
+  name: 'line'
+}
+
+item {
+  id: 45
+  name: 'shoe'
+}
+
+item {
+  id: 46
+  name: 'clock'
+}
+
+item {
+  id: 47
+  name: 'sidewalk'
+}
+
+item {
+  id: 48
+  name: 'tail'
+}
+
+item {
+  id: 49
+  name: 'boat'
+}
+
+item {
+  id: 50
+  name: 'cloud'
+}
+
